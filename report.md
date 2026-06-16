@@ -5,7 +5,7 @@
 - Number of files scanned: 3 markdown documentation files (`README.md`, `AGENTS.md`, `INDEX.md`). 0 script or code files.
 - Total files: 3
 - Percentage of completion: 100%
-- Time Estimation: 0 seconds (completed).
+- Execution Time: 0 seconds (completed).
 
 ## Code Review
 No script or code files were found in the entire folder or nested subfolders. The repository currently contains only documentation.
